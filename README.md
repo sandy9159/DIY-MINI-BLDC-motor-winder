@@ -1,6 +1,6 @@
 # DIY-MINI-BLDC-motor-winder
 
-# BLDC-motor-Winding-machine
+
 
 
 ![yy](https://user-images.githubusercontent.com/19898602/155056172-8d229cb7-c47c-4d2f-8f35-3a6a4a87a11e.png)
