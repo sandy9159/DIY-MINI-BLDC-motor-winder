@@ -138,6 +138,25 @@ They have Special offer of $2 for 1-4 Layer PCBs, free SMT assembly monthly.
 If you get yourself registered today at [JLCPCB](https://jlcpcb.com/IAT ) you get coupons worth of 30$ from [JLCPCB](https://jlcpcb.com/IAT ).
 
 
+SMT Assembly service of [JLCPCB.com](https://jlcpcb.com/IAT) is cherry on top now get your PCB fully assembled and save your time and money
+Select components for your PCB from there Parts Library of 200k+ in-stock components
+they are offering $30 valued New User coupons  & $24 SMT coupons every month
+$8.00 setup fee, and $0.0017  per joint
+
+Now no need to order components separately for you PCB and get free from stress of soldering them on PCB just try PCB SMT assembly service and get you PCB with components pre assembled and ready for the project
+
+
+👉 Try PCBA service of [JLCPCB.com](https://jlcpcb.com/IAT) and save your time and money, get PCB ready for project, 200K+ components in library of [JLCPCB.com](https://jlcpcb.com/IAT) as well as 3rd party         parts to choose from. 
+    Assembly will support 10M+ parts from Digikey, mouser
+    
+👉 $30 valued New User coupons 
+
+👉 $24 SMT coupons every month
+
+
+For more detials & offers please visit [JLCPCB.com](https://jlcpcb.com/IAT)
+
+
 
 ![image](https://user-images.githubusercontent.com/19898602/152666654-3ed3ae97-59c7-4ae5-b09d-08a8f073ee03.png)
 ![image](https://user-images.githubusercontent.com/19898602/152666661-97991686-8c09-4660-aa44-c2d958d8c1a4.png)
